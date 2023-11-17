@@ -76,7 +76,7 @@
     "icon": "justgage.png",
     "enabled": true,
     "extIcon": "https://raw.githubusercontent.com/MichaelKuch/ioBroker.vis-justgage/testing/admin/justgage.png",
-    "readme": "https://github.com/MichaelKuch/ioBroker.vis-justgage/blob/testing/README.md",
+    "readme": "https://raw.githubusercontent.com/MichaelKuch/ioBroker.vis-justgage/blob/testing/README.md",
     "loglevel": "info",
     "mode": "none",
     "type": "visualization-widgets",
