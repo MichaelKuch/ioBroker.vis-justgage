@@ -87,6 +87,9 @@
     "onlyWWW": true,
     "singleton": true,
     "noConfig": true,
+    "adminUI": {
+      "config": "none"
+    },
     "materialize": true,
     "restartAdapters": [
       "vis"
