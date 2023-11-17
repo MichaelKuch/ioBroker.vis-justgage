@@ -55,6 +55,12 @@
     "typescript": "~5.2.2"
   },
   "main": "widgets/justgage.html",
+  "files": [
+    "admin/",
+    "widgets/",
+    "io-package.json",
+    "LICENSE"
+  ],
   "scripts": {
     "test:js": "mocha --config test/mocharc.custom.json \"{!(node_modules|test)/**/*.test.js,*.test.js,test/**/test!(PackageFiles|Startup).js}\"",
     "test:package": "mocha test/package --exit",
